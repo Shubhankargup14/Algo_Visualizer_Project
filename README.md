@@ -1,1 +1,1 @@
-# Algo_Visualizer_Project
+Algo Visualizer is an interactive project built to demonstrate how different sorting algorithms work in real time. It visually represents the process of sorting an array of numbers, helping learners understand the underlying logic step by step.
